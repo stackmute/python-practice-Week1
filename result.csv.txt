@@ -1,0 +1,5 @@
+name,score,result,grade
+Alice,85,True,PASS
+Bob,72,True,PASS
+Charlie,90,True,PASS
+David,60,False,FAIL
